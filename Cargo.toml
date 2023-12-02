@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "01",
+]
+
+[workspace.package]
+license = "Apache-2.0"
