@@ -4,6 +4,7 @@ members = [
     "02",
     "04",
     "05",
+    "06",
 ]
 
 [workspace.package]
